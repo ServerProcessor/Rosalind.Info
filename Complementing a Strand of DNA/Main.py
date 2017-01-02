@@ -10,6 +10,4 @@ for ww in ss:
     w.append('C')
   if ww == 'C':
     w.append('G')
-n = len(w)
-for p in range(n):
-  print w[p],
+print "".join(w)
