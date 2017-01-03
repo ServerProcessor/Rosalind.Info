@@ -34,3 +34,11 @@ if c > c2:
   else:
     print "" , Dname3,
     print gp3
+if c2 > c:
+  if c2 > c3:
+    print "" , Dname2,
+    print gp2
+  else:
+    print "" , Dname3,
+    print gp3
+
