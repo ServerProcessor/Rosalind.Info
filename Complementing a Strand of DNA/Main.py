@@ -1,5 +1,5 @@
-s = 'AAAACCCGGT' // The input Sequence
-ss = s[::-1] // Reverse the String
+s = 'AAAACCCGGT' # The input Sequence
+ss = s[::-1] # Reverse the String
 w = []
 for ww in ss:
   if ww == 'A':
