@@ -1,7 +1,7 @@
 from bbio import *
 import itertools
 
-ss = 3
+ss = input("Enter the Number\n")
 qq = 1 
 
 for i in range(ss+1):
