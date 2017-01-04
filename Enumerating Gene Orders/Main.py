@@ -2,7 +2,6 @@ from bbio import *
 import itertools
 
 ss = 3
-
 qq = 1 
 
 for i in range(ss+1):
