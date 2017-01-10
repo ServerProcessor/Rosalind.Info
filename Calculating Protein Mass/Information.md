@@ -25,7 +25,7 @@ Da).
 In the following several problems on applications of mass spectrometry, we avoid the complication of having to distinguish
 between residues and non-residues by only considering peptides excised from the middle of the protein. This is a relatively 
 safe assumption because in practice, peptide analysis is often performed in tandem mass spectrometry. In this special class 
-of mass spectrometry, a protein is first divided into peptides, which are then broken into ions for mass analysis.
+of mass spectrometry, a protein is first divided into peptides,which are then broken into ions for mass analysis.
 
 ![alt tag](http://rosalind.info/media/problems/prtm/peptide_bond.png)
 ![alt tag](http://rosalind.info/media/problems/prtm/peptide_bond2.png)
